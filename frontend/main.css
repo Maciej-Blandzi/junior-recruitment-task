@@ -1,0 +1,11 @@
+.container{
+  max-width: 50%;
+  background-color: lightcyan;
+}
+
+.banner{
+  background-color: black;
+  color: lightcyan;
+  font: normal 800 1.5rem  "Lato", sans-serif;
+  padding: 5px;
+}
